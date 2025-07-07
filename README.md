@@ -1,3 +1,10 @@
+---
+
+**🎓 Course:** Data Structures Algorithm  
+**📅 Semester:** 3rd Semester  
+
+---
+
 # 🎓 SZABIST Student Record Management System
 
 A Java console-based **Student Record Management System** integrated with a **MySQL database**. This application allows administrators to **add**, **search**, **delete**, and **view** student records, utilizing both an in-memory **linked list** and **JDBC** for database operations.
