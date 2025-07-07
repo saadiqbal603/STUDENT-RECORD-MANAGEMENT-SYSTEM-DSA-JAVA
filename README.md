@@ -1,5 +1,3 @@
----
-
 **🎓 Course:** Data Structures Algorithm  
 **📅 Semester:** 3rd Semester  
 
